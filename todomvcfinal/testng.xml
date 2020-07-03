@@ -13,6 +13,7 @@
       <class name="com.tomvc.qa.testcases.Reactpagetest"/>
       <class name="com.tomvc.qa.testcases.Validation_site"/>
       <class name="com.tomvc.qa.testcases.Validation_tab"/>
+      <class name="com.tomvc.qa.testcases.Validation_tab"/>
     </classes>
   </test> <!-- Test1 -->
 </suite> <!-- Suite1 -->
